@@ -1,0 +1,10 @@
+{
+  "__proto__": {
+    "admin": true
+  },
+  "constructor": {
+    "prototype": {
+      "isAdmin": true
+    }
+  }
+}

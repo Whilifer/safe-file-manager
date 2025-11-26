@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<phones>
+  
+  
+  <phone name="iPhone 14">
+    
+    
+    <company>Apple</company>
+    
+    
+    <price>80000</price>
+    
+  
+  </phone>
+  
+  
+  <phone name="Galaxy S23">
+    
+    
+    <company>Samsung</company>
+    
+    
+    <price>70000</price>
+    
+  
+  </phone>
+  
+
+  <phone>11111111111</phone>
+</phones>
